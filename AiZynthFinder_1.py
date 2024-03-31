@@ -30,9 +30,6 @@ get_ipython().system('mkdir --parents data && download_public_data data')
 # In[ ]:
 
 
-pip uninstall torchvision
-
-
 # In[ ]:
 
 
