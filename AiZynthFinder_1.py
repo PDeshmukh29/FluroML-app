@@ -27,16 +27,6 @@ get_ipython().system('pip install --ignore-installed Pillow==9.0.0')
 get_ipython().system('mkdir --parents data && download_public_data data')
 
 
-# In[ ]:
-
-
-# In[ ]:
-
-
-pip install torchvision
-
-
-# In[ ]:
 
 
 get_ipython().system('pip install pillow')
